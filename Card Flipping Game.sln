@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlasDataChallenge", "Card Flipping Game\GlasDataChallenge.csproj", "{3252586E-1D71-41D0-8F7A-26DE8937769A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3252586E-1D71-41D0-8F7A-26DE8937769A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3252586E-1D71-41D0-8F7A-26DE8937769A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3252586E-1D71-41D0-8F7A-26DE8937769A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3252586E-1D71-41D0-8F7A-26DE8937769A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83EC9CCA-86BB-4D23-BE5B-9006040598F5}
+	EndGlobalSection
+EndGlobal
