@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlasDataChallenge", "Card Flipping Game\GlasDataChallenge.csproj", "{3252586E-1D71-41D0-8F7A-26DE8937769A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlasDataChallenge", "GlasDataChallenges\GlasDataChallenge.csproj", "{3252586E-1D71-41D0-8F7A-26DE8937769A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
